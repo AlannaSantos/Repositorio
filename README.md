@@ -15,5 +15,3 @@ Repositório para armazenar resumos sobre Git e Github do curso versionamento de
 git init
 ```
 
-## Referências
-- [Digital innovation One](https://web.dio.me/)
